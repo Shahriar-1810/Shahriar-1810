@@ -1,3 +1,4 @@
+![MasterHead](https://www.lambdatest.com/resources/images/Software-Test-Management.gif)
 <h1 align="center">Hi 👋, I'm Shahriar Iqbal</h1>
 <h3 align="center">A passionate Software Quality Assurance/Test Engineer.</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
