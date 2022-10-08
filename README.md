@@ -4,7 +4,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shahriar-1810](https://github.com/Shahriar-1810)
+- 👨‍💻 All of my projects are available at [https://github.com/Shahriar-1810?tab=repositories)
 
 - 💬 Ask me about **Manual Testing, Agile Methodologies, Automation Testing**
 
