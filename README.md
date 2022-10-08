@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shahriar-1810?tab=repositories)
 
-- 💬 Ask me about **Manual Testing, Agile Methodologies, Automation Testing**
+- 💬 Ask me about **Manual Testing, Agile Methodologies, Automation Testing.**
 
 - 📫 How to reach me **i.nafis005@gmail.com / shahriar.iqbal@g.bracu.ac.bd**
 
