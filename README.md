@@ -1,4 +1,3 @@
-![MasterHead](https://cdn-bkhop.nitrocdn.com/bpqoqtnaTjoREcTDRBioEfpdkvqyQoTj/assets/static/optimized/rev-00a17bc/wp-content/uploads/2021/03/sqa-engineering-logo.jpg)
 <h1 align="center">Hi 👋, I'm Shahriar Iqbal</h1>
 <h3 align="center">A passionate Software Quality Assurance/Test Engineer.</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
