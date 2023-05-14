@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **i.nafis005@gmail.com / shahriar.iqbal@g.bracu.ac.bd**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Q83O7fkEDL0PY9pTIDKi61KKdn2xKdGj/view?usp=sharing](https://drive.google.com/file/d/1Q83O7fkEDL0PY9pTIDKi61KKdn2xKdGj/view?usp=sharing)
+- 📄 You can view my experience using the resume link [RESUME](https://drive.google.com/drive/folders/1SThzQtMPWPBZYuay3OFLdpISSZj_CoF9?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
